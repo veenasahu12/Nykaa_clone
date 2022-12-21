@@ -24,4 +24,4 @@ Nykaa is an E-Commerce Website which helps users to buy Cosmetics products and B
 
 ### Netlify Link
 
-https://nykaabeautyproductclone.netlify.app/frontend/landing-page/index.html
+https://nykaa12.netlify.app/frontend/landing-page/index.html
